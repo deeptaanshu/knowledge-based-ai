@@ -1,4 +1,3 @@
 # knowledge-based-ai
-GTech - Knowledge-Based AI
 
-These are some KBAI-related articles that I found helpful.
+These are some articles related to Knowledge-Based AI that I found helpful.
